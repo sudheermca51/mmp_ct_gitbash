@@ -4,3 +4,4 @@ select
 enter
 drag
 drop
+double Click
